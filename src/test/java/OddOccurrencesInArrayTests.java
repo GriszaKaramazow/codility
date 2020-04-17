@@ -9,4 +9,5 @@ public class OddOccurrencesInArrayTests {
         OddOccurrencesInArray oddOccurrencesInArray = new OddOccurrencesInArray();
         assertEquals(7, oddOccurrencesInArray.solution(new int[]{9, 3, 9, 3, 9, 7, 9}));
     }
+
 }
