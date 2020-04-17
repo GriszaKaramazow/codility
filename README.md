@@ -2,6 +2,8 @@
 
 #### Lesson 3 - Time complexity
 
+* [PermMissingElem]()
+
 * [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/start/)
 
 #### Lesson 2 - Arrays
