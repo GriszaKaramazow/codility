@@ -2,7 +2,7 @@
 
 #### Lesson 3 - Time complexity
 
-* [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) (84%)
+* [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) (100%)
 
 * [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/start/) (100%)
 
