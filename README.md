@@ -5,6 +5,8 @@ You need to have an account on the website to access the trainings.
 
 #### Lesson 4 - Counting Elements
 
+* [Painless] [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/start/) (100%)
+
 * [Painless] [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/start/) (100%)
 
 #### Lesson 3 - Time complexity
