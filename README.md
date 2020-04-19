@@ -5,6 +5,8 @@ You need to have an account on the website to access the trainings.
 
 #### Lesson 4 - Counting Elements
 
+* [Medium] [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/start/) (77%)
+
 * [Medium] [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/start/) (100%)
 
 * [Easy] [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/start/) (100%)
@@ -28,4 +30,3 @@ You need to have an account on the website to access the trainings.
 #### Lesson 1 - Iterations
 
 * [Easy] [Binary Gap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/) (100%)
-
