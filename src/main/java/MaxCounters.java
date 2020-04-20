@@ -1,4 +1,6 @@
-import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * You are given N counters, initially set to 0, and you have two possible operations on them:
@@ -38,20 +40,27 @@ import java.util.Arrays;
 public class MaxCounters {
 
     public int[] solution(int N, int[] A) {
-        int[] counters = new int[N];
+        Map<Integer, Integer> mapCounters = new HashMap<>();
         int maxCounter = 0;
-        for (int i = 0; i < A.length; i++) {
-            if (A[i] > N) {
-                System.out.println("reseting");
-                Arrays.fill(counters, maxCounter);
+        for (int value : A) {
+            if (value > N) {
+                if (mapCounters.isEmpty()) {
+                    continue;
+                }
+                maxCounter += Collections.max(mapCounters.values());
+                mapCounters.clear();
             } else {
-                counters[A[i] - 1]++;
+                if (!mapCounters.containsKey(value)) {
+                    mapCounters.put(value, 1);
+                } else {
+                    mapCounters.put(value, mapCounters.get(value) + 1);
+                }
             }
-            if (A[i] <= N && counters[A[i] - 1] > maxCounter) {
-                maxCounter = counters[A[i] - 1];
-                System.out.println("i: " + i + ", maxCounter: " + maxCounter);
-            }
-            System.out.println(Arrays.toString(counters));
+        }
+        int[] counters = new int[N];
+        for (int i = 0; i < counters.length; i++) {
+            counters[i] = mapCounters.getOrDefault(+ i + 1, 0);
+            counters[i] += maxCounter;
         }
         return counters;
     }

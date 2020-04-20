@@ -5,7 +5,7 @@ You need to have an account on the website to access the trainings.
 
 #### Lesson 4 - Counting Elements
 
-* [Medium] [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/start/) (77%)
+* [Medium] [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/start/) (100%)
 
 * [Medium] [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/start/) (100%)
 
