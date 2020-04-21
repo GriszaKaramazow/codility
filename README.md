@@ -7,6 +7,9 @@ You need to have an account on the website to access the trainings.
 
 #### Lesson 5 - Prefix Sums
 
+* [Medium] [**CountDiv**](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/start/)
+&#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingSV2FU8-KDN/)
+
 * [Easy] [**PassingCars**](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/start/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingDMCHJG-YZS/)
 
