@@ -8,7 +8,7 @@ You need to have an account on the website to access the trainings.
 #### Lesson 5 - Prefix Sums
 
 * [Medium] [**GenomicRangeQuery**](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
-&#187;&#187;&#187; [62%](https://app.codility.com/demo/results/trainingCQ72PD-K7K/)
+&#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training65UQ9W-BNB/)
 
 * [Medium] [**CountDiv**](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingSV2FU8-KDN/)

@@ -32,30 +32,43 @@
  * P[K] ≤ Q[K], where 0 ≤ K < M;
  * string S consists only of upper-case English letters A, C, G, T.
  */
-
 public class GenomicRangeQuery {
 
     public int[] solution(String S, int[] P, int[] Q) {
+        int[] adenineArray = new int[S.length() + 1];
+        int[] cytosineArray = new int[S.length() + 1];
+        int[] guanineArray = new int[S.length() + 1];
+        int adenineCount = 0;
+        int cytosineCount = 0;
+        int guanineCount = 0;
+        adenineArray[0] = adenineCount;
+        cytosineArray[0] = cytosineCount;
+        guanineArray[0] = guanineCount;
         char[] nucleotides = S.toCharArray();
-        int[] result = new int[P.length];
-        for (int i = 0; i < result.length; i++) {
-            result[i] = getMinimalImpact(nucleotides, P[i], Q[i]);
+        for (int i = 0; i < nucleotides.length; i++) {
+            if (nucleotides[i] == 'A') {
+                adenineCount++;
+            } else if (nucleotides[i] == 'C') {
+                cytosineCount++;
+            } else if (nucleotides[i] == 'G') {
+                guanineCount++;
+            }
+            adenineArray[i + 1] = adenineCount;
+            cytosineArray[i + 1] = cytosineCount;
+            guanineArray[i + 1] = guanineCount;
         }
-        return result;
-    }
-
-    private int getMinimalImpact(char[] nucleotides, int start, int end) {
-        int result = 4;
-        for (int i = start; i < end + 1; i++) {
-            if (nucleotides[i] == 'G' && result > 3) {
-                result = 3;
-            } else if (nucleotides[i] == 'C' && result > 2) {
-                result = 2;
-            } else if (nucleotides[i] == 'A') {
-                return 1;
+        for (int i = 0; i < P.length; i++) {
+            if (adenineArray[Q[i] + 1] - adenineArray[P[i]] > 0) {
+                P[i] = 1;
+            } else if (cytosineArray[Q[i] + 1] - cytosineArray[P[i]] > 0) {
+                P[i] = 2;
+            } else if (guanineArray[Q[i] + 1] - guanineArray[P[i]] > 0) {
+                P[i] = 3;
+            } else {
+                P[i] = 4;
             }
         }
-        return result;
+        return P;
     }
 
 }
