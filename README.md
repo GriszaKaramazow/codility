@@ -7,6 +7,9 @@ You need to have an account on the website to access the trainings.
 
 #### Lesson 5 - Prefix Sums
 
+* [Medium] [**MinAvgTwoSlice**](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
+&#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training6NKNKU-S22/)
+
 * [Medium] [**GenomicRangeQuery**](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training65UQ9W-BNB/)
 
