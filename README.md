@@ -5,6 +5,11 @@ You need to have an account on the website to access the trainings.
 
 ---
 
+#### Lesson 6 - Sorting
+
+* [Easy] [**Distinct**](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
+&#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingK57D2B-C58/)
+
 #### Lesson 5 - Prefix Sums
 
 * [Medium] [**MinAvgTwoSlice**](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
