@@ -7,6 +7,9 @@ You need to have an account on the website to access the trainings.
 
 #### Lesson 6 - Sorting
 
+* [Easy] [**Triangle**](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
+&#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingN6KDN7-VV6/)
+
 * [Easy] [**MaxProductOfThree**](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training4SHDQB-YMV/)
 
