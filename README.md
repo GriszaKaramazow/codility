@@ -7,6 +7,9 @@ You need to have an account on the website to access the trainings.
 
 #### Lesson 6 - Sorting
 
+* [Medium] [**NumberOfDiscIntersections**](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
+&#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training2W46PG-6PV/)
+
 * [Easy] [**Triangle**](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingN6KDN7-VV6/)
 
