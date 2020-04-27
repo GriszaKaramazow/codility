@@ -5,7 +5,12 @@ You need to have an account on the website to access the trainings.
 
 ---
 
-#### Lesson 6 - Sorting
+#### Lesson 7 | Stacks and Queues
+
+* [Easy] [**Brackets**](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
+&#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingBTGP8U-RPH/)
+
+#### Lesson 6 | Sorting
 
 * [Medium] [**NumberOfDiscIntersections**](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training2W46PG-6PV/)
@@ -19,7 +24,7 @@ You need to have an account on the website to access the trainings.
 * [Easy] [**Distinct**](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingK57D2B-C58/)
 
-#### Lesson 5 - Prefix Sums
+#### Lesson 5 | Prefix Sums
 
 * [Medium] [**MinAvgTwoSlice**](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training6NKNKU-S22/)
@@ -35,7 +40,7 @@ You need to have an account on the website to access the trainings.
 
 ---
 
-#### Lesson 4 - Counting Elements
+#### Lesson 4 | Counting Elements
 
 * [Medium] [**MaxCounters**](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/training65HQ5K-YU8/)
@@ -51,7 +56,7 @@ You need to have an account on the website to access the trainings.
 
 ---
 
-#### Lesson 3 - Time complexity
+#### Lesson 3 | Time complexity
 
 * [Easy] [**TapeEquilibrium**](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingH7MBPN-W3S/)
@@ -64,7 +69,7 @@ You need to have an account on the website to access the trainings.
 
 ---
 
-#### Lesson 2 - Arrays
+#### Lesson 2 | Arrays
 
 * [Easy] [**OddOccurrencesInArray**](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingWGVW27-ARD/)
@@ -74,7 +79,7 @@ You need to have an account on the website to access the trainings.
 
 ---
 
-#### Lesson 1 - Iterations
+#### Lesson 1 | Iterations
 
 * [Easy] [**Binary Gap**](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 &#187;&#187;&#187; [100%](https://app.codility.com/demo/results/trainingRGB3DM-MSZ/)
